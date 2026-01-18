@@ -4,7 +4,7 @@ html{
 
 }
 
-#qrCode{
+.qrCode{
     border-radius: 15px;
     margin: auto;
     width: 288px;
